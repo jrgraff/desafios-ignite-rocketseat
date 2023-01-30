@@ -1,0 +1,27 @@
+.container {
+  max-width: 1120px;
+  margin: auto;
+  
+  a {
+    padding-bottom: 3rem;
+    display: block;
+
+    strong {
+      font-size: 1.75rem;
+      text-align: justify;
+    }
+
+    p {
+      margin-top: 0.5rem;
+    }
+  }
+
+  button {
+    color: #FF57B2;
+    border: 0;
+    font-weight: bold;
+    font-size: 1.125rem;
+    background-color: #1A1D23;
+    padding: 3rem 0;
+  }
+}

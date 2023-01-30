@@ -1,0 +1,35 @@
+.header {
+  width: 100vw;
+  height: 400px;
+}
+
+.container {
+  max-width: 1120px;
+  margin: 5rem auto;
+
+  h1 {
+    font-size: 3rem;
+    color: #F8F8F8;
+  }
+  
+  .content {
+    h2 {
+      margin-top: 4rem;
+      margin-bottom: 4rem;
+      font-size: 2rem;
+      color: #F8F8F8;
+    }
+
+    
+
+    a, span {
+      font-weight: normal;
+      color: #FF57B2;
+
+      strong {
+        color: #FF57B2;
+        font-weight: normal;
+      }
+    }
+  }
+}
